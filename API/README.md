@@ -17,8 +17,8 @@ This project includes an Express server for adding items to a shopping cart and 
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/ecommerce-csv-to-json.git
-    cd ecommerce-csv-to-json
+    git clone https://github.com/Vasanth-vdev/VASANTH-G.git
+    cd API
     ```
 
 2. Install dependencies:
