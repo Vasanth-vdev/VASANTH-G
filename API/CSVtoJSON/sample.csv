@@ -1,0 +1,11 @@
+productID,name,price,quantity,category
+1,Apple,0.50,100,Fruit
+2,Banana,0.30,150,Fruit
+3,Carrot,0.20,200,Vegetable
+4,Tomato,0.40,120,Vegetable
+5,Bread,1.50,80,Bakery
+6,Milk,1.00,90,Dairy
+7,Cheese,2.50,60,Dairy
+8,Chicken,5.00,50,Meat
+9,Beef,7.00,40,Meat
+10,Salmon,10.00,30,Seafood

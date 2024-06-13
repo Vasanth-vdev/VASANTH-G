@@ -1,0 +1,72 @@
+[
+  {
+    "productID": "1",
+    "name": "Apple",
+    "price": "0.50",
+    "quantity": "100",
+    "category": "Fruit"
+  },
+  {
+    "productID": "2",
+    "name": "Banana",
+    "price": "0.30",
+    "quantity": "150",
+    "category": "Fruit"
+  },
+  {
+    "productID": "3",
+    "name": "Carrot",
+    "price": "0.20",
+    "quantity": "200",
+    "category": "Vegetable"
+  },
+  {
+    "productID": "4",
+    "name": "Tomato",
+    "price": "0.40",
+    "quantity": "120",
+    "category": "Vegetable"
+  },
+  {
+    "productID": "5",
+    "name": "Bread",
+    "price": "1.50",
+    "quantity": "80",
+    "category": "Bakery"
+  },
+  {
+    "productID": "6",
+    "name": "Milk",
+    "price": "1.00",
+    "quantity": "90",
+    "category": "Dairy"
+  },
+  {
+    "productID": "7",
+    "name": "Cheese",
+    "price": "2.50",
+    "quantity": "60",
+    "category": "Dairy"
+  },
+  {
+    "productID": "8",
+    "name": "Chicken",
+    "price": "5.00",
+    "quantity": "50",
+    "category": "Meat"
+  },
+  {
+    "productID": "9",
+    "name": "Beef",
+    "price": "7.00",
+    "quantity": "40",
+    "category": "Meat"
+  },
+  {
+    "productID": "10",
+    "name": "Salmon",
+    "price": "10.00",
+    "quantity": "30",
+    "category": "Seafood"
+  }
+]
