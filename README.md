@@ -80,3 +80,30 @@ productID,name,price,quantity,category
 8,Chicken,5.00,50,Meat
 9,Beef,7.00,40,Meat
 10,Salmon,10.00,30,Seafood
+
+## Example `sample.json`
+
+```json
+[
+  {
+    "productID": 1,
+    "name": "Apple",
+    "price": 0.50,
+    "quantity": 100,
+    "category": "Fruit"
+  },
+  {
+    "productID": 2,
+    "name": "Banana",
+    "price": 0.30,
+    "quantity": 150,
+    "category": "Fruit"
+  },
+  {
+    "productID": 3,
+    "name": "Carrot",
+    "price": 0.20,
+    "quantity": 200,
+    "category": "Vegetable"
+  }
+]
